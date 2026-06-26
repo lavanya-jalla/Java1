@@ -11,8 +11,6 @@ public class Strong {
             int digit =n%10;
             int fac=1;
 
-
-        
         for(int i=1;i<=digit;i++){
             fac=fac*i;
         }
@@ -20,9 +18,7 @@ public class Strong {
             n=n/10;
 
         }
-       
-        
-    
+
     if(original==sum){
         System.out.println("it is a strong number");
     }

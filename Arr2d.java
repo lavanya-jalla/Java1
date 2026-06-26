@@ -11,6 +11,7 @@ public class Arr2d {
             System.out.print(x[i][j]+" ");
             System.out.println();
 
+            
         }
            
        }

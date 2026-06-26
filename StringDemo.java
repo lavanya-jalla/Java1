@@ -29,9 +29,7 @@ public class StringDemo {
         System.out.println(a6.charAt(1));//a
         System.out.println(a5.charAt(5));//n
         
-
-
-
+        
         System.out.println("*******************");
         System.out.println(a1.equals(a6));//true
         System.out.println(a2.equals(a7));//false
