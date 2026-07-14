@@ -21,6 +21,7 @@ public class Mtstar {
         System.out.println();
        
     }
+    sc.close();
 }
 }
 

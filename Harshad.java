@@ -20,6 +20,7 @@ public class Harshad {
         else{
             System.out.println("Not a hasshard number");
         }
+        sc.close();
     }
     
 }

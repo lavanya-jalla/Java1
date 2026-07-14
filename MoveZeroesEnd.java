@@ -29,7 +29,8 @@ public class MoveZeroesEnd {
         }
         
       
-
+sc.close();
     }
+    
     
 }

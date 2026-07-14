@@ -19,6 +19,7 @@ public class Magical {
         else{
             System.out.println("Not a magical number");
         }
+        sc.close();
     }
 
 }
